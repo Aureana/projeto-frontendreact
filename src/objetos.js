@@ -47,14 +47,14 @@ const TodosBrinquedos = [
   rendImagem: Math.ceil(Math.random() * 100000),
   produto:"Foguet Espacial",
   preco: 300,
-  imagem: imagem6,
+  imagem: imagem6,  
 },
 {
   id: 7,
   rendImagem: Math.ceil(Math.random() * 100000),
   produto:"Nave espacial para montar",
   preco: 90,
-  imagem: imagem7,
+  imagem: imagem7, 
 },
 ]
 
