@@ -3,7 +3,8 @@
 ![Navigate](./src/imagem/LOGO1.png)
 
 Um E-Commerce de brinquedos espaciais.
-
+###
+Projeto de introdução aos fundamentos do React. Aqui, vamos praticar a estrutura React, com o objetivo que funcione como o front-end de um E-Commerce.
 
 
 ## Deploy (visualize o site)
